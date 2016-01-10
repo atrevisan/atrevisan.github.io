@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Allan Trevisan blog
 tagline:          'Coding experiments and ideas'
 description:      'Begin - to begin is half the work, let half still remain; again begin this, and thou wilt have finished.'
-url:              http://atrevisan.github.io
+url:              http://atrevisan.tk
 baseurl:          /
 
 author:
