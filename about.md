@@ -14,6 +14,7 @@ During university i have also engaged myself in a scientific internship at the [
 I have also worked at a Software factory company that build applications suitable for the needs of companies. There i worked in two projects:
 
 - The first one was a messages client based on the [type b protocol] (https://en.wikipedia.org/wiki/ISO/IEC_14443) used by the air transportation industry. In the project i used mainly managed C++, MFC, Visual Studio and a bit of C#. The project was developed using the SCRUM metodology and the main tasks were about code maintenance.
+
 - The second project was a system for monitoring the air fare market for detecting changes in fare prices and availability, aiding in the air companies workflow with the process of creating and changing fares in response to the market. The main technologies used were Java, EJBs and Eclipse, using Java Swing and JBuilder at the client side, and Weblogic applications server and webservices.
  
 Curently my main area of interest is the web. I'm focused in the development of asp.net mvc applications at the server side and the use of Javascript, JQuery, AngularJS and other sorts of client frameworks.
