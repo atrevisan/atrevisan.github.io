@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+Finally i managed to put this blog online. Hi there!!! My name is Allan Trevisan, i'm a software developer, i was born in the southern tip of Brazil in [Curitiba] (https://www.google.com.br/maps/place/Curitiba+-+PR/@-25.446972,-49.245023,3a,75y,90t/data=!3m8!1e2!3m6!1s-Z7VemrapwQk%2FTfvW04FPT6I%2FAAAAAAAAMfQ%2F6tLj2wjEP_U!2e4!3e12!6s%2F%2Flh3.googleusercontent.com%2F-Z7VemrapwQk%2FTfvW04FPT6I%2FAAAAAAAAMfQ%2F6tLj2wjEP_U%2Fs203-k-no%2F!7i2816!8i2112!4m2!3m1!1s0x94dce3f5fc090ff1:0x3c7a83b0092bb747!6m1!1e1?hl=pt-BR) Paraná.
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
