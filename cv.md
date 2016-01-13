@@ -23,12 +23,12 @@ projects developed at the time was the elaboration of a course in the C programm
 students in the eletronics and informatics departaments. Nowadays i'm working as a freelance developer.
 
 ### Degree
-Undergrad: Bachelor in Information Systems. 
+Undergrad: Bachelor in Information Systems.  
 Institution: [Federal University of Technology - Paraná] (http://utfpr.edu.br/).
 
 ### Professional experience
 
-**Company:** CINQ Technologies (from January 2014 to May 2014)
+**Company:** CINQ Technologies (from January 2014 to May 2014).  
 **Project:** The system SITA-Insight from SITA is a system with the goal of monitoring the air fare
 marked and to detect changes in prices, availability and to manage the air fares creation and 
 modification workflow in response to changes in the market, aiding companies to deal with the 
@@ -36,8 +36,8 @@ complexity of the air industry business rules and to analyse the big load of dat
 comming from the ATPCO (Airline Tariff Publishing Company) feed, the fares distribution standard
 for the american market. The project was developed in Java, EJB's, Java Swing with JBuilder in the
 client side and weblogic applications server. It was a project between Brazil and Canada, and the
-majority of actities was developed in a virttualized environment.
-**Activities:**
+majority of actities was developed in a virttualized environment.  
+**Activities:**  
 - To use the Eclipse IDE.
 - Bug fixing and development of new features.
 - Development of webservices.
