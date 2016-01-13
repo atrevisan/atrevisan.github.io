@@ -23,7 +23,7 @@ projects developed at the time was the elaboration of a course in the C programm
 students in the eletronics and informatics departaments. Nowadays i'm working as a freelance developer.
 
 ### Degree
-Undergrad: Bachelor in Information Systems.  
+Undergrad: Bachelor in Information Systems.
 Institution: [Federal University of Technology - Paraná] (http://utfpr.edu.br/).
 
 ### Professional experience
