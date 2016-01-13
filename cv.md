@@ -37,7 +37,7 @@ comming from the ATPCO (Airline Tariff Publishing Company) feed, the fares distr
 for the american market. The project was developed in Java, EJB's, Java Swing with JBuilder in the
 client side and weblogic applications server. It was a project between Brazil and Canada, and the
 majority of actities was developed in a virttualized environment.  
-**Activities:**  
+###**Activities:**  
 - To use the Eclipse IDE.  
 - Bug fixing and development of new features.  
 - Development of webservices.  
