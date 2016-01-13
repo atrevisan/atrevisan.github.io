@@ -38,32 +38,32 @@ for the american market. The project was developed in Java, EJB's, Java Swing wi
 client side and weblogic applications server. It was a project between Brazil and Canada, and the
 majority of actities was developed in a virttualized environment.  
 **Activities:**  
-- To use the Eclipse IDE.
-- Bug fixing and development of new features.
-- Development of webservices.
-- To use Quality Center for bug tracking.
-- Criation and execution of test scenarios.
+- To use the Eclipse IDE.  
+- Bug fixing and development of new features.  
+- Development of webservices.  
+- To use Quality Center for bug tracking.  
+- Criation and execution of test scenarios.  
 - To use SVN version control system.
 
-**Company:** CINQ Technologies (from February 2013 to December 2013)
+**Company:** CINQ Technologies (from February 2013 to December 2013).  
 **Project:** The SITATEX IP system from SITA is a messages client based in the type b protocol and
 used by the air transportation industry, with a base of more than 20.000 instalations. The system
 comunicates with the SITATEX server deplyed into two data centers. It is a Windows based applications
 that was developed for the last 20 years (with a DOS version in the beginning) and in 2010 ported 
 for Windows 7, receiving improovements since then. The applications was developed above the .NET
 platform with the use of C++, C# and MFC (Microsoft Foundation Classes). The project was developed
-with the SCRUM methodology, with the stuff working from the US, France and Brazil.
-**Activities:**
-- To use the Visual Studio IDE.
-- Bug fixing and the development of new features.
-- To use the JIRA project management tool.
-- Creation and execution of test cenarios.
-- To use SVN version control system.
-- To interact with the Quality Assurance team from Atlanta.
-- To manage configurations and build distribution to the SITA team of operations.
+with the SCRUM methodology, with the stuff working from the US, France and Brazil.  
+**Activities:**  
+- To use the Visual Studio IDE.  
+- Bug fixing and the development of new features.  
+- To use the JIRA project management tool.  
+- Creation and execution of test cenarios.  
+- To use SVN version control system.  
+- To interact with the Quality Assurance team from Atlanta.  
+- To manage configurations and build distribution to the SITA team of operations.  
 - Documentation updates.
 
-**Company:** Paraná Institute of Technology (TECPAR) (from september 2011 to august 2012)
+**Company:** Paraná Institute of Technology (TECPAR) (from september 2011 to august 2012).  
 **Project**
 
 
