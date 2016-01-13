@@ -5,18 +5,71 @@ title: cv
 
 ## Allan Caminha Trevisan
 
-A software developer engaged in developing solutions for various plataforms and programming languages. Currently my
-main interests lie in web development using the .net framework and Javascript. I have experience in the software industry,
-where i worked in a company that builds customized applications and offer coding services for other companies. There i worked 
-in two projects related to the air transportation industry. During university i have also engaged myself in a scientific internship
-at a research institution, there i worked at the Center of Engineering for Inteligent Systems where i developed a project in the 
-area of multiagent systems. During university i have also participated in the educational tutoring program where we developed 
-activities related to teatching, research and extension.
+Residence: Curitiba - Paraná - Brazil
+Date of birth: 12/07/1988
+Telephone: +55(41)3336-1378
+email: allan.caminha.trevisan@gmail.com
+
+I'm a software developer engaged in the development of solution for various platforms and programming languages.
+My main interests concentrate in the development of web and desktop applications with the .NET platform. I have
+experience in the software industry, where i worked in a company that develops custom solutions for companies
+of various segments. In this company i participated into two projects of systems that are used by the air 
+transportation industry. Throughout my time in university i participated in a scientic internship programe
+into a public reasearch institute. In this institution i worked in a Artificial Inteligence laboratory where
+i developed a project in which i developed applications that integrated a multiagents plataform with a 
+project manah=gement system. In university i also participated in the tutoring educational programe. This
+programe was about the development of activities related to teatching, research and extension. One of the 
+projects developed at the time was the elaboration of a course in the C programming language for the
+students in the eletronics and informatics departaments. Nowadays i'm working as a freelance developer.
 
 ### Degree
-Bachelor in Information Systems. [Federal University of Technology - Paraná] (http://utfpr.edu.br/).
+Undergrad: Bachelor in Information Systems. 
+Institution: [Federal University of Technology - Paraná] (http://utfpr.edu.br/).
 
 ### Professional experience
+
+**Company:** CINQ Technologies (from January 2014 to May 2014)
+**Project:** The system SITA-Insight from SITA is a system with the goal of monitoring the air fare
+marked and to detect changes in prices, availability and to manage the air fares creation and 
+modification workflow in response to changes in the market, aiding companies to deal with the 
+complexity of the air industry business rules and to analyse the big load of data from competitors
+comming from the ATPCO (Airline Tariff Publishing Company) feed, the fares distribution standard
+for the american market. The project was developed in Java, EJB's, Java Swing with JBuilder in the
+client side and weblogic applications server. It was a project between Brazil and Canada, and the
+majority of actities was developed in a virttualized environment.
+**Activities:**
+- To use the Eclipse IDE.
+- Bug fixing and development of new features.
+- Development of webservices.
+- To use Quality Center for bug tracking.
+- Criation and execution of test scenarios.
+- To use SVN version control system.
+
+**Company:** CINQ Technologies (from February 2013 to December 2013)
+**Project:** The SITATEX IP system from SITA is a messages client based in the type b protocol and
+used by the air transportation industry, with a base of more than 20.000 instalations. The system
+comunicates with the SITATEX server deplyed into two data centers. It is a Windows based applications
+that was developed for the last 20 years (with a DOS version in the beginning) and in 2010 ported 
+for Windows 7, receiving improovements since then. The applications was developed above the .NET
+platform with the use of C++, C# and MFC (Microsoft Foundation Classes). The project was developed
+with the SCRUM methodology, with the stuff working from the US, France and Brazil.
+**Activities:**
+- To use the Visual Studio IDE.
+- Bug fixing and the development of new features.
+- To use the JIRA project management tool.
+- Creation and execution of test cenarios.
+- To use SVN version control system.
+- To interact with the Quality Assurance team from Atlanta.
+- To manage configurations and build distribution to the SITA team of operations.
+- Documentation updates.
+
+**Company:** Paraná Institute of Technology (TECPAR) (from september 2011 to august 2012)
+**Project**
+
+
+
+
+
 ####C++ and C# developer, Cinq Technologies
 - Maintenance for a messages client system based on the type b protocol used in the air cargo industry.
 - Bug fixes and development of new features.
