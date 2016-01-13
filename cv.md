@@ -23,7 +23,7 @@ projects developed at the time was the elaboration of a course in the C programm
 students in the eletronics and informatics departaments. Nowadays i'm working as a freelance developer.
 
 ### Degree
-Undergrad: Bachelor in Information Systems
+Undergrad: Bachelor in Information Systems.  
 Institution: [Federal University of Technology - Paraná] (http://utfpr.edu.br/).
 
 ### Professional experience
@@ -37,13 +37,13 @@ comming from the ATPCO (Airline Tariff Publishing Company) feed, the fares distr
 for the american market. The project was developed in Java, EJB's, Java Swing with JBuilder in the
 client side and weblogic applications server. It was a project between Brazil and Canada, and the
 majority of actities was developed in a virttualized environment.  
-###**Activities:**  
-- To use the Eclipse IDE.  
-- Bug fixing and development of new features.  
-- Development of webservices.  
-- To use Quality Center for bug tracking.  
-- Criation and execution of test scenarios.  
-- To use SVN version control system.
+**Activities:**  
+* To use the Eclipse IDE.  
+* Bug fixing and development of new features.  
+* Development of webservices.  
+* To use Quality Center for bug tracking.  
+* Criation and execution of test scenarios.  
+* To use SVN version control system.
 
 **Company:** CINQ Technologies (from February 2013 to December 2013).  
 **Project:** The SITATEX IP system from SITA is a messages client based in the type b protocol and
@@ -53,15 +53,15 @@ that was developed for the last 20 years (with a DOS version in the beginning) a
 for Windows 7, receiving improovements since then. The applications was developed above the .NET
 platform with the use of C++, C# and MFC (Microsoft Foundation Classes). The project was developed
 with the SCRUM methodology, with the stuff working from the US, France and Brazil.  
-**Activities:**  
-- To use the Visual Studio IDE.  
-- Bug fixing and the development of new features.  
-- To use the JIRA project management tool.  
-- Creation and execution of test cenarios.  
-- To use SVN version control system.  
-- To interact with the Quality Assurance team from Atlanta.  
-- To manage configurations and build distribution to the SITA team of operations.  
-- Documentation updates.
+**Activities:**
+* To use the Visual Studio IDE.  
+* Bug fixing and the development of new features.  
+* To use the JIRA project management tool.  
+* Creation and execution of test cenarios.  
+* To use SVN version control system.  
+* To interact with the Quality Assurance team from Atlanta.  
+* To manage configurations and build distribution to the SITA team of operations.  
+* Documentation updates.
 
 **Company:** Paraná Institute of Technology (TECPAR) (from september 2011 to august 2012).  
 **Project**
