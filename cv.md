@@ -70,7 +70,7 @@ with the SCRUM methodology, with the stuff working from the US, France and Brazi
 
 
 
-####C++ and C# developer, Cinq Technologies
+####C++ and C# developer, Cinq Technologies:
 - Maintenance for a messages client system based on the type b protocol used in the air cargo industry.
 - Bug fixes and development of new features.
 - Organization of meetings and use of SCRUM metodology.
