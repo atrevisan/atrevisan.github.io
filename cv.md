@@ -50,7 +50,7 @@ majority of activities were developed in a virtualized environment.
 used by the air transportation industry, with a base of more than 20.000 installations. The system
 communicates with the SITATEX server deployed into two data centers. It is a Windows based application
 developed for the last 20 years (with a DOS version at the beginning) and in 2010 ported 
-to Windows 7, receiving improvements since then. The applications was developed on the .NET
+to Windows 7, receiving improvements since then. The application was developed on the .NET
 platform with the use of C++, C# and MFC (Microsoft Foundation Classes). The project was developed
 using the SCRUM methodology, with the project members working from the US, France and Brazil.  
 
