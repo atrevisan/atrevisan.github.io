@@ -5,9 +5,9 @@ title: cv
 
 ## Allan Caminha Trevisan
 
-Residence: Curitiba - Paraná - Brazil
-Date of birth: 12/07/1988
-Telephone: +55(41)3336-1378
+Residence: Curitiba - Paraná - Brazil  
+Date of birth: 12/07/1988  
+Telephone: +55(41)3336-1378  
 email: allan.caminha.trevisan@gmail.com
 
 I'm a software developer engaged in the development of solution for various platforms and programming languages.
@@ -71,7 +71,7 @@ distributed applications that need complex cognitive agents with a flexible huma
 platform was developed in Common Lisp by professor Jean Paul Barthès in the university of 
 Compiègne. The project main goal was to use the platform to build software agents that are capable
 of communicate with an already existent project management tool that is been used at the Center
-for Intelligent Systems Engineering in TECPAR.
+for Intelligent Systems Engineering in TECPAR.  
 **Activities:**
 
 * My participation in the project was made possible through the scientific internship program from the Araucaria Foundation.
@@ -84,7 +84,7 @@ for Intelligent Systems Engineering in TECPAR.
 **Company:** Federal University of Technology - Paraná (from July 2010 to July 2011).  
 **Project:** Participation in the educational tutoring program of the Information System course. In this project
 the participants developed activities related to teaching. research and extension through the interaction
-between the communities internal and external to the university.
+between the communities internal and external to the university.  
 **Activities:**
 
 * Participation in the conceptualization and presentation of a course in the C programming language for the students of the electronics and informatics departments.
