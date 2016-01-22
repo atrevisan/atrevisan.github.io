@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Working with .NET events
+comments: true
 ---
 
 In .NET with C# you can define custom events using the publish/subscriber pattern. Events can be defined and triggered in
