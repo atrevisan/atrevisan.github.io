@@ -159,6 +159,6 @@ receive the notification, notice that when newBlogPostInfo
 is called at this point it references two methods and both will be called. Next we remove Allan from the event handler delegate, 
 when Dave publishes a new blog post only Jonh will be notified.
 
-That is it for the post. In the next post i will talk about the problem with this approach in the case a subscriber isn't in scope
+That is it for the post. In the [next post] (http://atrevisan.tk/2016/01/26/working-with-.net-events-weak-event-manager/) i will talk about the problem with this approach in the case a subscriber isn't in scope
 anymore and we want to garbage collect him (even if we remove the subscriber from the event handler delegate, the delegate 
 still keeps a strong reference to it). We achieve this by the use of a weak event manager.
