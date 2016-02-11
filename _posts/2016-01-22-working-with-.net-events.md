@@ -5,7 +5,7 @@ comments: true
 ---
 
 In .NET with C# you can define custom events using the publish/subscriber pattern. Events can be defined and triggered in
-a custom fashion, releasing the burden from the developer in the process of monitoring and handling them. In this
+a custom fashion, releasing from the developer the burden of the process of monitoring and handling them. In this
 example i will demonstrate the use of events for notifying blog followers when a new blog post is made by their
 favorite blogger.
 
