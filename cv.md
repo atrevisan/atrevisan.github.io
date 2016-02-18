@@ -1,7 +1,4 @@
----
-layout: page
-title: cv
----
+
 
 ## Allan Caminha Trevisan
 
